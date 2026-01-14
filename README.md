@@ -9,7 +9,7 @@
 
 This repository accompanies the patented invention:
 
-> **NeuroRoboControl (NRC): Developing an Affordable EEG‑Based Robotic Control System**
+> **A COST-EFFECTIVE BRAIN-WAVE SENSOR SYSTEM FOR COLLECTING REAL-TIME MOTOR IMAGERY ELECTROENCEPHALOGRAM (EEG) DATA**
 > Filed under *The Patents Act, 1970 (India)* by **Symbiosis International (Deemed University)**.
 
 The invention presents a **low‑cost, 12‑node EEG sensor system** capable of capturing **Motor Imagery Signals (MIS)** in real time and using them to **control a 4‑axis robotic arm** through a Brain–Computer Interface (BCI). The system integrates **embedded hardware**, **signal processing**, **deep learning**, and **IoT (MQTT)** to achieve accurate, real‑time operation with significantly reduced cost compared to conventional EEG systems.
