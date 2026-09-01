@@ -110,7 +110,7 @@ This IoT‑centric design allows the computationally intensive deep learning mod
   * Low‑pass filter
   * Median filter
   * Notch filter
-  * Band‑pass filtering with wavelet denoising
+  * Band‑pass filtering with wavelet denoising.
 
 * **Deep Learning Models:**
 
